@@ -1,0 +1,7 @@
+{
+    "port" : "3050",
+    "consumerKey" : "bvm3huemex4y4lwkjgi3bol33blhhrpq0uotlnyk",
+    "consumerSecret" : "ahyxdrm5sejzhapukxzw0uvsap3t2cm3lv0nqhan",
+    "redirectUrl" : "http://127.0.0.1:8085/callback",
+    "apiHost" : "https://apisandbox.openbankproject.com"
+}
